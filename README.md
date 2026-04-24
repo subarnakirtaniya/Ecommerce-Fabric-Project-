@@ -34,10 +34,6 @@ CSV → Lakehouse → PySpark → Silver → Gold → Power BI Dashboard
 * Total Sales KPI
 * Sales Distribution
 
-## 📸 Dashboard Preview
-
-![Dashboard](images/dashboard.png)
-
 ## 💼 Use Case
 
 Helps business analyze regional sales performance and make data-driven decisions.
